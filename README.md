@@ -1,5 +1,3 @@
-_Note: I'm busy porting this project which originally resided at https://github.com/sky-uk/merlin. I will continue to maintain it._
-
 # merlin
 
 Merlin is a distributed IPVS manager. It can be used to create a clustered load balancer. It provides:
